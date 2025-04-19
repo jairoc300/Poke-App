@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8865f249.css",
+    "main.js": "/static/js/main.1c9ba7f9.js",
+    "static/js/453.80443019.chunk.js": "/static/js/453.80443019.chunk.js",
+    "static/media/fondo_adivinar.jpg": "/static/media/fondo_adivinar.ecad3fdf67e46234f5fa.jpg",
+    "static/media/fondo_jugar.jpg": "/static/media/fondo_jugar.e20c47eb74ba8912f043.jpg",
+    "static/media/fondo_registrar.jpg": "/static/media/fondo_registrar.872dd1be31ce0b861d11.jpg",
+    "static/media/fondo_login.jpg": "/static/media/fondo_login.66801f5c817f7dcf2615.jpg",
+    "static/media/Jersey15-Regular.ttf": "/static/media/Jersey15-Regular.b20b742582c0c34707d5.ttf",
+    "static/media/Rye-Regular.ttf": "/static/media/Rye-Regular.3f678c23348d0423648a.ttf",
+    "static/media/ConcertOne-Regular.ttf": "/static/media/ConcertOne-Regular.646d19d3a58116d78c9c.ttf",
+    "index.html": "/index.html",
+    "main.8865f249.css.map": "/static/css/main.8865f249.css.map",
+    "main.1c9ba7f9.js.map": "/static/js/main.1c9ba7f9.js.map",
+    "453.80443019.chunk.js.map": "/static/js/453.80443019.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8865f249.css",
+    "static/js/main.1c9ba7f9.js"
+  ]
+}
